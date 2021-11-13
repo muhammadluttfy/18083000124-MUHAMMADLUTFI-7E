@@ -17,7 +17,7 @@
           <h2 class="card-title"><?= $data['title'] ?></h2>
         </div>
         <div class="col-sm-6">
-          <a href="<?= base_url; ?>/user/tambah" class="btn float-sm-right btn-xs btn btn-success">Tambah User</a>
+          <a href="<?= base_url; ?>/user/tambah" class="btn float-sm-right btn-sm btn btn-success">Tambah User</a>
         </div>
       </div>
     </div>

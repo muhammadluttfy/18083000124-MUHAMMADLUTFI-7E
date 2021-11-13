@@ -20,19 +20,19 @@
             </li>
             <li>
                 <a href="<?= base_url; ?>/kategori">
-                    <i class="tim-icons icon-atom"></i>
+                    <i class="tim-icons icon-components"></i>
                     <p>Kategori</p>
                 </a>
             </li>
             <li>
                 <a href="<?= base_url; ?>/buku">
-                    <i class="tim-icons icon-atom"></i>
+                    <i class="tim-icons icon-book-bookmark"></i>
                     <p>Buku</p>
                 </a>
             </li>
             <li>
                 <a href="<?= base_url; ?>/user">
-                    <i class="tim-icons icon-pin"></i>
+                    <i class="tim-icons icon-single-02"></i>
                     <p>User</p>
                 </a>
             </li>

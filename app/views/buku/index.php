@@ -10,9 +10,9 @@
                         </div>
                         <div class="col-lg-6">
                             <div class="btn-group float-center float-sm-right">
-                                <a href="<?= base_url; ?>/buku/tambah" class="btn float-right btn-sm btn btn-primary">Tambah Buku</a>
-                                <a href="<?= base_url; ?>/buku/laporan" class="btn float-right btn-sm btn btn-info">Laporan Buku</a>
-                                <a href="<?= base_url; ?>/buku/lihatlaporan" class="btn float-right btn-sm btn btn-warning">Lihat Laporan Buku</a>
+                                <a href="<?= base_url; ?>/buku/tambah" class="btn float-right btn-sm btn btn-success">Tambah Buku</a>
+                                <!-- <a href="<?= base_url; ?>/buku/laporan" class="btn float-right btn-sm btn btn-info">Laporan Buku</a> -->
+                                <a href="<?= base_url; ?>/buku/lihatlaporan" class="btn float-right btn-sm btn btn-danger">Lihat Laporan Buku</a>
                             </div>
                         </div>
                     </div>
